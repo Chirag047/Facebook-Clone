@@ -23,12 +23,12 @@ https://facebook-clone-web.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Chirag047/Expanding-Cards.git
+  git clone https://github.com/Chirag047/Facebook-Clone.git
 ```
 Go to the project directory
 
 ```bash
-  cd Expanding-Cards
+  cd Facebook-Clone
 ```
 Start the development by running file index.html with live server extension.
 
