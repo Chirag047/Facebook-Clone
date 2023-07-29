@@ -2,7 +2,7 @@
 This is a clone of **facebook website** using HTML and CSS only. This is only a design of Facebook Website.
 <hr>
 
-## Working App can be found here
+## Working Website can be found here
 
 https://facebook-clone-web.vercel.app/
 
