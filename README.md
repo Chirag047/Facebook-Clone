@@ -15,7 +15,7 @@ https://facebook-clone-web.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots 
 
 <hr>
 
